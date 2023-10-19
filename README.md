@@ -19,6 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/96356620-7bdf-454f-b593-f1c636d88fbf)
 ![image](https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/8b1eaf56-6d28-40a5-b3c0-d3cdd462ac0c)
 ![Screenshot_1697700171](https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/b9b750f3-ba07-4f8f-af64-283ee2ebc71c)
+![Screenshot_1697700093](https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/62722d8e-50c7-4226-a72d-45cd5adc4df4)
+
 
 
 
