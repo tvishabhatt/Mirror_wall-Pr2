@@ -41,8 +41,7 @@ class Splace_ScreenState extends State<Splace_Screen>with SingleTickerProviderSt
                 children: [
                   Text("Mirro Wall",style: TextStyle(color: Colors.white,fontSize: 30),),
                   SizedBox(width: 10,),
-                  Image(image: NetworkImage("https://cdn-icons-png.flaticon.com/512/720/720255.png"),height: 40,width: 40,),
-
+                  Image(image: AssetImage("assets/go.png"),height: 40,width: 40,)
                 ],
               ),);
           },
