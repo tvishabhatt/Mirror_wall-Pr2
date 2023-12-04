@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mirror_wall_pr2/Screen1.dart';
+import 'package:mirror_wall_pr2/Splace_Screen.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
 
         useMaterial3: true,
       ),
-      home: Screen1(),
+      home: Splace_Screen(),
     );
   }
 }

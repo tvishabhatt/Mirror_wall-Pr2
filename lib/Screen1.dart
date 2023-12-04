@@ -122,7 +122,7 @@ class Screen1State extends State<Screen1>{
                                                     );
                                                   },),
                                               ],
-                                            ):Center(child: Column(
+                                            ):Center(child: Column(mainAxisAlignment: MainAxisAlignment.center,
                                               children: [
                                                 Text("You Don't have any Bookmarks Yet."),
                                                 TextButton(onPressed:() {
@@ -310,9 +310,6 @@ class changes extends ChangeNotifier{
     i=false;
     notifyListeners();
   }
-
-
-
 
   List<String> get stringList => _stringList;
 
